@@ -40,6 +40,7 @@ body {
     'Helvetica Neue', sans-serif;
   color: var(--mainBlack);
   background: var(--darkGrey);
+  color: #222;
   line-height: 1.4;
   font-size: 1rem;
   font-weight: 300;
