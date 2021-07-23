@@ -54,12 +54,12 @@ const SingleCocktail = () => {
     return <Loading />;
   }
   if (!cocktail) {
-    return <h2 className="section-title">no cocktail to display</h2>;
+    return <h2 className="section-content">no cocktail to display</h2>;
   } else {
     const { name, image, category, info, glass, instructions, ingredients } = cocktail;
     return (
       <section className="section cocktail-section">
-        <h2 className="section-title">{name}</h2>
+        <h2 className="section-content">{name}</h2>
         <div className="drink">
           <img src={image} alt={name}></img>
           <div className="drink-info">

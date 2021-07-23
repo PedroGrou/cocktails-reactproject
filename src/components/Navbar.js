@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="nav-header">
           <Link to="/">
             <img src={logo} alt="Random Company" className="nav-logo" />
-            <p className="text-logo">Random Company</p>
+            <p className="text-logo">Random Cocktails</p>
           </Link>
         </div>
         <ul className="nav-links">
