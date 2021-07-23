@@ -2,7 +2,7 @@ import React from 'react';
 
 function Title() {
   return (
-    <div className="section-title">
+    <div className="section-main-title">
       <h1>Cocktails</h1>
       <div className="underline"></div>
     </div>
