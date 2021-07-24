@@ -7,7 +7,7 @@ const About = () => {
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda quod optio unde! Adipisci laborum illo
         cupiditate illum doloribus veritatis reiciendis ullam, suscipit repudiandae mollitia amet culpa fugiat
-        distinctio harum! Aliquid unde pariatur dicta commodi, temporibus eos quisquam excepturi magni consequuntur.
+        distinctio harum! Aliquid unde pariatur dicta commodi, temporibus eos quisquam excepturi magni.
       </p>
     </section>
   );
